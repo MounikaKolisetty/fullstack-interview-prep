@@ -62,10 +62,3 @@ This is how the repository is organized:
 - GitHub cleanup and visibility tips
 
 ---
-
-## 🛠 How to Use
-
-1. **Clone this repo:**
-   ```bash
-   git clone https://github.com/your-username/fullstackinterviewprep.git
-   cd fullstackinterviewprep
